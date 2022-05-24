@@ -3,4 +3,4 @@ Here I will send all the code I've created for the various competitions I'm part
 
 **Current list of competitions**
 
--JoBarcelona 22, Business Intelligence
+- Scheider Electric Hackaton 2022
